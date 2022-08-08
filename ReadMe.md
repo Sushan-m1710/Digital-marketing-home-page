@@ -6,8 +6,6 @@ Built With
 - Html
 - Css
 
-Time
-
 Learnings
 - This project helped me understand more margins and positions
 
